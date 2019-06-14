@@ -16,6 +16,7 @@
 		B58EB8B222B1694E00D991B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B58EB8B122B1694E00D991B7 /* Assets.xcassets */; };
 		B58EB8B522B1694E00D991B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B58EB8B322B1694E00D991B7 /* LaunchScreen.storyboard */; };
 		B58EB8BE22B300C600D991B7 /* basketball.png in Resources */ = {isa = PBXBuildFile; fileRef = B58EB8BD22B300C600D991B7 /* basketball.png */; };
+		B58EB8C222B3125200D991B7 /* platform.png in Resources */ = {isa = PBXBuildFile; fileRef = B58EB8C122B3125200D991B7 /* platform.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		B58EB8B422B1694E00D991B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B58EB8B622B1694E00D991B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B58EB8BD22B300C600D991B7 /* basketball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = basketball.png; path = ../../../../../Downloads/basketball.png; sourceTree = "<group>"; };
+		B58EB8C122B3125200D991B7 /* platform.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = platform.png; path = ../../../../../Documents/platform.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		B58EB8BC22B3006D00D991B7 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				B58EB8C122B3125200D991B7 /* platform.png */,
 				B58EB8BD22B300C600D991B7 /* basketball.png */,
 			);
 			path = images;
@@ -144,6 +147,7 @@
 			files = (
 				B58EB8B022B1694D00D991B7 /* Main.storyboard in Resources */,
 				B58EB8A722B1694D00D991B7 /* GameScene.sks in Resources */,
+				B58EB8C222B3125200D991B7 /* platform.png in Resources */,
 				B58EB8B222B1694E00D991B7 /* Assets.xcassets in Resources */,
 				B58EB8B522B1694E00D991B7 /* LaunchScreen.storyboard in Resources */,
 				B58EB8A922B1694D00D991B7 /* Actions.sks in Resources */,
